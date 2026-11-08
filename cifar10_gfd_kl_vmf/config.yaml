@@ -1,0 +1,7 @@
+layers: [3, 6, 9, 12]
+group_sides: [1, 2, 4, 8, 16]
+temperatures: [0.03, 0.05, 0.3]
+particles: 64
+references: 64
+queries: 2
+max_angle_deg: 2.0
